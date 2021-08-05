@@ -1,0 +1,15 @@
+E:\APLICAÇÕES E CURSOS\CURSOS e TREINAMENTOS\2021\ConsoleAppRabbitMQ\ConsoleAppRabbitMQ_Consumer\ConsoleAppRabbitMQ_Consumer\obj\Debug\netcoreapp3.1\ConsoleAppRabbitMQ_Consumer.AssemblyInfoInputs.cache
+E:\APLICAÇÕES E CURSOS\CURSOS e TREINAMENTOS\2021\ConsoleAppRabbitMQ\ConsoleAppRabbitMQ_Consumer\ConsoleAppRabbitMQ_Consumer\obj\Debug\netcoreapp3.1\ConsoleAppRabbitMQ_Consumer.AssemblyInfo.cs
+E:\APLICAÇÕES E CURSOS\CURSOS e TREINAMENTOS\2021\ConsoleAppRabbitMQ\ConsoleAppRabbitMQ_Consumer\ConsoleAppRabbitMQ_Consumer\obj\Debug\netcoreapp3.1\ConsoleAppRabbitMQ_Consumer.csproj.CoreCompileInputs.cache
+E:\APLICAÇÕES E CURSOS\CURSOS e TREINAMENTOS\2021\ConsoleAppRabbitMQ\ConsoleAppRabbitMQ_Consumer\ConsoleAppRabbitMQ_Consumer\bin\Debug\netcoreapp3.1\ConsoleAppRabbitMQ_Consumer.exe
+E:\APLICAÇÕES E CURSOS\CURSOS e TREINAMENTOS\2021\ConsoleAppRabbitMQ\ConsoleAppRabbitMQ_Consumer\ConsoleAppRabbitMQ_Consumer\bin\Debug\netcoreapp3.1\ConsoleAppRabbitMQ_Consumer.deps.json
+E:\APLICAÇÕES E CURSOS\CURSOS e TREINAMENTOS\2021\ConsoleAppRabbitMQ\ConsoleAppRabbitMQ_Consumer\ConsoleAppRabbitMQ_Consumer\bin\Debug\netcoreapp3.1\ConsoleAppRabbitMQ_Consumer.runtimeconfig.json
+E:\APLICAÇÕES E CURSOS\CURSOS e TREINAMENTOS\2021\ConsoleAppRabbitMQ\ConsoleAppRabbitMQ_Consumer\ConsoleAppRabbitMQ_Consumer\bin\Debug\netcoreapp3.1\ConsoleAppRabbitMQ_Consumer.runtimeconfig.dev.json
+E:\APLICAÇÕES E CURSOS\CURSOS e TREINAMENTOS\2021\ConsoleAppRabbitMQ\ConsoleAppRabbitMQ_Consumer\ConsoleAppRabbitMQ_Consumer\bin\Debug\netcoreapp3.1\ConsoleAppRabbitMQ_Consumer.dll
+E:\APLICAÇÕES E CURSOS\CURSOS e TREINAMENTOS\2021\ConsoleAppRabbitMQ\ConsoleAppRabbitMQ_Consumer\ConsoleAppRabbitMQ_Consumer\bin\Debug\netcoreapp3.1\ConsoleAppRabbitMQ_Consumer.pdb
+E:\APLICAÇÕES E CURSOS\CURSOS e TREINAMENTOS\2021\ConsoleAppRabbitMQ\ConsoleAppRabbitMQ_Consumer\ConsoleAppRabbitMQ_Consumer\bin\Debug\netcoreapp3.1\RabbitMQ.Client.dll
+E:\APLICAÇÕES E CURSOS\CURSOS e TREINAMENTOS\2021\ConsoleAppRabbitMQ\ConsoleAppRabbitMQ_Consumer\ConsoleAppRabbitMQ_Consumer\bin\Debug\netcoreapp3.1\System.Threading.Channels.dll
+E:\APLICAÇÕES E CURSOS\CURSOS e TREINAMENTOS\2021\ConsoleAppRabbitMQ\ConsoleAppRabbitMQ_Consumer\ConsoleAppRabbitMQ_Consumer\obj\Debug\netcoreapp3.1\ConsoleAppRabbitMQ_Consumer.csproj.CopyComplete
+E:\APLICAÇÕES E CURSOS\CURSOS e TREINAMENTOS\2021\ConsoleAppRabbitMQ\ConsoleAppRabbitMQ_Consumer\ConsoleAppRabbitMQ_Consumer\obj\Debug\netcoreapp3.1\ConsoleAppRabbitMQ_Consumer.dll
+E:\APLICAÇÕES E CURSOS\CURSOS e TREINAMENTOS\2021\ConsoleAppRabbitMQ\ConsoleAppRabbitMQ_Consumer\ConsoleAppRabbitMQ_Consumer\obj\Debug\netcoreapp3.1\ConsoleAppRabbitMQ_Consumer.pdb
+E:\APLICAÇÕES E CURSOS\CURSOS e TREINAMENTOS\2021\ConsoleAppRabbitMQ\ConsoleAppRabbitMQ_Consumer\ConsoleAppRabbitMQ_Consumer\obj\Debug\netcoreapp3.1\ConsoleAppRabbitMQ_Consumer.genruntimeconfig.cache

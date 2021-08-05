@@ -1,0 +1,4 @@
+E:\APLICAÇÕES E CURSOS\CURSOS e TREINAMENTOS\2021\ConsoleAppRabbitMQ\ConsoleAppRabbitMQ_Consumer\ConsoleAppRabbitMQ_Consumer\obj\Debug\netcoreapp2.0\ConsoleAppRabbitMQ_Consumer.csprojAssemblyReference.cache
+E:\APLICAÇÕES E CURSOS\CURSOS e TREINAMENTOS\2021\ConsoleAppRabbitMQ\ConsoleAppRabbitMQ_Consumer\ConsoleAppRabbitMQ_Consumer\obj\Debug\netcoreapp2.0\ConsoleAppRabbitMQ_Consumer.AssemblyInfoInputs.cache
+E:\APLICAÇÕES E CURSOS\CURSOS e TREINAMENTOS\2021\ConsoleAppRabbitMQ\ConsoleAppRabbitMQ_Consumer\ConsoleAppRabbitMQ_Consumer\obj\Debug\netcoreapp2.0\ConsoleAppRabbitMQ_Consumer.AssemblyInfo.cs
+E:\APLICAÇÕES E CURSOS\CURSOS e TREINAMENTOS\2021\ConsoleAppRabbitMQ\ConsoleAppRabbitMQ_Consumer\ConsoleAppRabbitMQ_Consumer\obj\Debug\netcoreapp2.0\ConsoleAppRabbitMQ_Consumer.csproj.CoreCompileInputs.cache
